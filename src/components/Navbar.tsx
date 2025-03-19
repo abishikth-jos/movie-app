@@ -57,7 +57,7 @@ export const Navbar: React.FC = () => {
 
         <ul className="items-center hidden space-x-2 md:flex">
           <li className="flex items-center space-x-4 ">
-            <span className="font-medium text-gray-700">Eggsy</span>
+            <span className="font-medium text-gray-700">AnyLink Movie</span>
 
             <div className="flex items-center space-x-2">
               <Image
